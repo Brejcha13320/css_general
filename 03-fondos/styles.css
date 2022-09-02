@@ -1,0 +1,29 @@
+body {
+  background-color: #ccc;
+  /*
+  background-image: url("img/fondo1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  */
+  color: white;
+  text-align: justify;
+}
+
+#caja {
+  border: 5px solid black;
+  padding: 10px;
+  background-color: rgb(94, 131, 212);
+  color: white;
+  font-family: "Open Sans";
+  text-align: center;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: red;
+  background: white;
+  background-image: url("img/patron1.png");
+  border: 5px solid red;
+}

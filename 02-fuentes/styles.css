@@ -1,0 +1,27 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+
+  /* Colores */
+
+  /* Colores del Sistema */
+  color: mediumpurple;
+  /* Colores Hexadecimales */
+  color: #cccccc;
+  /* Colores RGB */
+  color: rgb(255, 255, 107);
+  /* Colores RGBA */
+  color: rgba(255, 255, 107, 0.5);
+}
+
+h3 {
+  font-family: "Comic Sans MS";
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+P {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
